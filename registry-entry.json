@@ -1,0 +1,19 @@
+{
+  "name": "openwebui",
+  "display_name": "OpenWebUI",
+  "version": "1.0.0",
+  "description": "Operate a running OpenWebUI backend through an agent-friendly CLI",
+  "requires": "OpenWebUI instance running",
+  "homepage": "https://openwebui.com",
+  "source_url": "https://github.com/ashaiful/cli-anything-openwebui",
+  "install_cmd": "pip install git+https://github.com/ashaiful/cli-anything-openwebui.git",
+  "entry_point": "cli-anything-openwebui",
+  "skill_md": "https://github.com/ashaiful/cli-anything-openwebui/blob/main/cli_anything/openwebui/skills/SKILL.md",
+  "category": "ai",
+  "contributors": [
+    {
+      "name": "ashaiful",
+      "url": "https://github.com/ashaiful"
+    }
+  ]
+}
